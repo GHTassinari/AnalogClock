@@ -4,7 +4,7 @@ AnalogClock front end project using Javascript, HTML and CSS.
 The project is available at: [https://analog-clock-azure.vercel.app/](https://analog-clock-azure.vercel.app/)
 
 <div align="center">
-  <img src="./.github/gif.gif" alt="project-gif">
+  <img src="./.github/project.gif" alt="project-gif">
 </div>
 
 
